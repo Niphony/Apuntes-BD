@@ -10,4 +10,4 @@ Lo que lo componen es:
 
 Tiene varias funciones [[Funciones SMBD]]. 
 
-Las BD actuales SQL siguen el
+Las BD actuales SQL siguen siendo el estandar.
