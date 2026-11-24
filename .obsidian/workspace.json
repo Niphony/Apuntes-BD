@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4befe9bfeea7b0f7",
+        "id": "58429484b6419757",
         "type": "tabs",
         "children": [
           {
-            "id": "ce2115f2c27271db",
+            "id": "b1c2e62933d0176c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDL AVANZADO/ALTER TABLE.md",
+                "file": "No SQL/Tablas JSONB y Mongo DB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ALTER TABLE"
+              "title": "Tablas JSONB y Mongo DB"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,45 +188,47 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "ce2115f2c27271db",
+  "active": "d676e92ac40f3f1d",
   "lastOpenFiles": [
+    "No SQL/Antipatrones.md",
+    "No SQL/Agregaciones o Embebido (mini - ejemplo).md",
+    "No SQL/CRUD NoSQL.md",
+    "No SQL/NoSQL.md",
+    "No SQL/Tablas JSONB y Mongo DB.md",
+    "Imagenes/Pasted image 20261122202933.png",
+    "Normalización/Primera Forma Normal - (1FN).md",
+    "Normalización/Segunda Forma Normal - (2FN).md",
+    "Normalización/Tercera Forma Normal - (3FN).md",
+    "Conceptos/Vistas.md",
+    "No SQL",
+    "Álgebra Relacional/Producto cartesiano (JOIN).md",
+    "Álgebra Relacional/Álgebra relacional.md",
+    "Álgebra Relacional/Where - Group By.md",
+    "Álgebra Relacional/Agregación.md",
+    "Spring Boot - Conexion/API Rest.md",
+    "Spring Boot - Conexion",
+    "file:/home/niphony/Descargas/eden-nx2/NX2_NOTES.md",
     "Pasted image 20261019104954.png",
     "DDL AVANZADO/DDL AVANZADO.md",
     "DDL AVANZADO/ALTER TABLE.md",
     "Pasted image 20261019104608.png",
     "Pasted image 20261019104518.png",
-    "Normalización/Segunda Forma Normal - (2FN).md",
     "Sin título.md",
     "DDL AVANZADO",
-    "Álgebra Relacional/Agregación.md",
     "Arboles Rojinegros.md",
     "file:/home/niphony/Descargas/pt-port-20261012-191c3904/README.md",
-    "Álgebra Relacional/Where - Group By.md",
     "Imagenes/Pasted image 20260930094542.png",
     "Imagenes/Pasted image 20260930094220.png",
-    "Álgebra Relacional/Producto cartesiano (JOIN).md",
     "Imagenes/Pasted image 20260930093422.png",
     "Imagenes/Pasted image 20260930092433.png",
     "Imagenes/Pasted image 20260930092349.png",
-    "Álgebra Relacional/Álgebra relacional.md",
     "Álgebra Relacional/UNION - INTERSECT.md",
     "Bases de Datos.md",
     "SMDB (DBMS).md",
     "PostgreSQL/CRUD.md",
     "PostgreSQL/Tablas y Tipos.md",
     "PostgreSQL/Entorno.md",
-    "PostgreSQL/PostgreSQL.md",
-    "Normalización/Normalización y sus formas.md",
-    "Normalización/Tercera Forma Normal - (3FN).md",
-    "Normalización/Primera Forma Normal - (1FN).md",
-    "Conceptos/Funciones SMBD.md",
-    "Conceptos/Modelo Relacional.md",
-    "Conceptos/Fases del ciclo de vida BD.md",
-    "Conceptos/Entidades y Atributos.md",
-    "Conceptos/Relaciones.md",
     "Imagenes/Pasted image 20260914175239.png",
-    "Imagenes/Pasted image 20260914183254.png",
-    "Imagenes/Pasted image 20260914182932.png",
     "Normalización",
     "Álgebra Relacional",
     "Conceptos",
